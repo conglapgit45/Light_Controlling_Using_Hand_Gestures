@@ -2,7 +2,9 @@
 Demo light controlling using MediaPipe and pytorch
 
 Step 0: Generate data for hand landmarks with camera using cv2 and then save them to 3 cvs files (train, val, test).
+
 Step 1: Train model with colab using pytorch and then save the best model.
+
 Step 2: Simulate with camera using cv2 and the best model. Some mockups as below.
 
 ![WhatsApp Image 2024-12-02 at 23 25 53](https://github.com/user-attachments/assets/0448a8cc-e425-4105-aa0b-1c37a683b476)
